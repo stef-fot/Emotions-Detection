@@ -1,11 +1,14 @@
 """
-EmotionDetection package entry point.
+EmotionDetection: a multilingual, explainable emotion & sentiment analyzer.
 
-Exposes the multilingual emotion detector so callers can do:
-    from EmotionDetection import emotion_detector
+    >>> from EmotionDetection import emotion_detector
+    >>> emotion_detector("I just got promoted!")["primary_emotion"]
+    'joy'
 """
 
-from EmotionDetection.emotion_detection import emotion_detector
+from .emotion_detection import (EMOTIONS, LABELS, MODEL_NAME, MODEL_VERSION,
+                                emotion_detector, format_legacy)
 
-__all__ = ["emotion_detector"]
-__version__ = "2.0.0"
+__all__ = ["emotion_detector", "format_legacy", "EMOTIONS", "LABELS",
+           "MODEL_NAME", "MODEL_VERSION"]
+__version__ = MODEL_VERSION

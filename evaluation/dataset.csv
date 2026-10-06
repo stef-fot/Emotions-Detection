@@ -1,0 +1,280 @@
+split,lang,label,text
+test1,en,joy,I passed my driving test this morning and I could not be happier!
+test1,en,joy,"What a wonderful evening, thank you all for coming."
+test1,en,joy,"We're getting married next June, I'm over the moon!"
+test1,en,joy,My daughter smiled at me for the first time today.
+test1,en,sadness,I've been crying all night since she left.
+test1,en,sadness,Everything feels empty without him.
+test1,en,sadness,My grandfather passed away last week and I miss him terribly.
+test1,en,sadness,I feel so lonely in this big city.
+test1,en,anger,I'm absolutely furious that they cancelled my flight without telling me.
+test1,en,anger,"This is outrageous, I demand a refund right now!"
+test1,en,anger,"I hate how he talks to me, it makes my blood boil."
+test1,en,anger,"Stop lying to me, I'm sick and tired of your excuses."
+test1,en,fear,I'm terrified of the surgery tomorrow.
+test1,en,fear,I heard footsteps downstairs and I'm scared to move.
+test1,en,fear,"I can't stop worrying about the exam results, my anxiety is through the roof."
+test1,en,disgust,The bathroom was filthy and the smell made me want to vomit.
+test1,en,disgust,"That food was disgusting, I spat it out."
+test1,en,disgust,"Ugh, there's mold all over the fridge, so gross."
+test1,en,surprise,"Wow, I never expected to see you here!"
+test1,en,surprise,"I can't believe they showed up, what a shock."
+test1,en,surprise,"Oh my god, the whole class threw me a surprise party!"
+test1,en,neutral,The meeting is scheduled for three o'clock in the conference room.
+test1,en,neutral,Please send me the report by Friday.
+test1,en,neutral,The train to Boston leaves from platform four.
+test1,en,neutral,I bought milk and bread at the supermarket.
+test1,el,joy,Πέρασα τις εξετάσεις και είμαι πανευτυχής!
+test1,el,joy,"Σήμερα είναι μια υπέροχη μέρα, νιώθω τόσο χαρούμενος."
+test1,el,joy,"Μπράβο σου, τα κατάφερες, είμαι τόσο περήφανη για σένα."
+test1,el,sadness,Νιώθω πολύ μόνος και λυπημένος απόψε.
+test1,el,sadness,Μου λείπει πολύ η γιαγιά μου.
+test1,el,sadness,"Έκλαψα όλη μέρα, δεν αντέχω τον χωρισμό."
+test1,el,anger,"Είμαι έξαλλος με αυτή την εξυπηρέτηση, είναι απαράδεκτη!"
+test1,el,anger,Με εκνευρίζει απίστευτα που δεν με ακούς ποτέ.
+test1,el,fear,"Φοβάμαι πολύ για αύριο, έχω τρομερό άγχος."
+test1,el,fear,"Με τρόμαξε ο θόρυβος τη νύχτα, είμαι πανικόβλητη."
+test1,el,disgust,Αυτό το φαγητό ήταν αηδιαστικό.
+test1,el,disgust,"Σιχαίνομαι τις κατσαρίδες, είναι σιχαμερές."
+test1,el,surprise,"Δεν το πιστεύω, ήρθαν όλοι χωρίς να το περιμένω!"
+test1,el,neutral,Το λεωφορείο φεύγει στις οκτώ το πρωί.
+test1,el,neutral,Αύριο έχω ραντεβού με τον λογιστή.
+test1,es,joy,"¡Qué alegría verte, estoy muy feliz hoy!"
+test1,es,joy,"Me encanta este lugar, es maravilloso."
+test1,es,sadness,Me siento muy triste y solo desde que te fuiste.
+test1,es,sadness,"Echo de menos a mi familia, lloro cada noche."
+test1,es,anger,"Estoy furioso con mi jefe, es un mentiroso."
+test1,es,fear,Tengo mucho miedo de volar en avión.
+test1,es,neutral,La reunión empieza a las cinco en la oficina.
+test1,fr,joy,"Je suis tellement heureux aujourd'hui, merci pour tout!"
+test1,fr,sadness,"Tu me manques énormément, je suis très triste."
+test1,fr,anger,"Je suis furieux, c'est inacceptable!"
+test1,fr,neutral,Le train part de la gare à huit heures.
+test1,de,joy,"Ich bin so glücklich, wir haben gewonnen!"
+test1,de,sadness,Ich bin heute sehr traurig und fühle mich allein.
+test1,de,anger,"Ich bin wütend, das ist absolut inakzeptabel!"
+test1,de,neutral,Der Termin ist am Dienstag um zehn Uhr.
+test1,it,joy,"Sono felicissimo, ho avuto il lavoro!"
+test1,it,sadness,"Mi manchi tanto, sono molto triste."
+test1,pt,joy,"Estou muito feliz hoje, parabéns pra mim!"
+test1,pt,fear,Tenho muito medo do escuro.
+test1,ru,joy,"Я так рад, что ты приехал!"
+test1,ru,sadness,"Мне очень грустно, я скучаю по тебе."
+test1,ru,anger,"Я в ярости, ты меня достал!"
+test1,tr,joy,"Bugün çok mutluyum, harika bir gün!"
+test1,tr,sadness,"Çok üzgünüm, seni özledim."
+test1,ja,joy,今日はとても嬉しいです、ありがとう!
+test1,ja,sadness,とても悲しいです、涙が止まりません。
+test1,zh,joy,"我今天太开心了,谢谢你!"
+test1,zh,anger,"我真的很生气,太讨厌了!"
+test1,ko,joy,"오늘 정말 행복해요, 고마워요!"
+test1,hi,joy,"मैं आज बहुत खुश हूँ, धन्यवाद!"
+dev,en,joy,I just got promoted today!
+dev,en,joy,"I love you so much, this is the best day of my life."
+dev,en,joy,"Congratulations on your graduation, so proud of you!"
+dev,en,joy,"This is amazing, thank you!"
+dev,en,joy,I'm so excited for the trip tomorrow.
+dev,en,joy,"Such a lovely surprise gift, I'm delighted."
+dev,en,joy,"Yay, we won the championship!"
+dev,en,joy,I feel grateful and blessed.
+dev,en,sadness,i want my ex back
+dev,en,sadness,I miss my mom so much.
+dev,en,sadness,This is the worst day ever.
+dev,en,sadness,I feel so down and hopeless lately.
+dev,en,sadness,He left me and I can't stop crying.
+dev,en,sadness,I'm heartbroken.
+dev,en,sadness,"Goodbye, I'll never forget you."
+dev,en,anger,"I hate you, you're such an idiot!"
+dev,en,anger,"This is ridiculous, I'm so angry right now."
+dev,en,anger,I'm fed up with this nonsense.
+dev,en,anger,"Shut up, you stupid liar."
+dev,en,anger,How dare you speak to me like that!
+dev,en,fear,I'm so scared of what might happen.
+dev,en,fear,I'm nervous and anxious about the interview.
+dev,en,fear,"Help, I'm in danger!"
+dev,en,fear,I'm afraid of losing everything.
+dev,en,disgust,This place is revolting.
+dev,en,disgust,"Yuck, that's nasty."
+dev,en,disgust,"The movie was awful, I'm so sick of this garbage."
+dev,en,surprise,"Wow, that's unbelievable!"
+dev,en,surprise,"I'm shocked, I didn't expect that at all."
+dev,en,surprise,"OMG, no way!"
+dev,en,neutral,The package arrives on Thursday.
+dev,en,neutral,I'm going to the library to return a book.
+dev,en,neutral,Water boils at one hundred degrees.
+dev,en,neutral,"Hello, how are you?"
+dev,en,sadness,I'm not happy with how things turned out.
+dev,en,sadness,"I am not feeling good, I'm really upset."
+dev,en,joy,I am very happy with the result!
+dev,en,joy,"Not bad at all, I love it!"
+dev,el,joy,Είμαι τόσο χαρούμενος σήμερα!
+dev,el,joy,"Σ' αγαπώ πολύ, ευχαριστώ για όλα."
+dev,el,joy,"Τέλεια νέα, συγχαρητήρια!"
+dev,el,joy,"Πήρα προαγωγή, είμαι ενθουσιασμένη!"
+dev,el,sadness,μου λείπει ο/η πρώην μου
+dev,el,sadness,Είμαι λυπημένη και μόνη.
+dev,el,sadness,"Νιώθω απελπισία, όλα είναι άδεια."
+dev,el,sadness,Στεναχωριέμαι πολύ που φεύγεις.
+dev,el,anger,"Σε μισώ, είσαι ηλίθιος!"
+dev,el,anger,"Με εξόργισες, δεν το αντέχω άλλο."
+dev,el,anger,"Είναι απαράδεκτο, θυμώνω πολύ."
+dev,el,fear,Φοβάμαι πολύ.
+dev,el,fear,Έχω άγχος και ανησυχώ για τα πάντα.
+dev,el,fear,"Είναι επικίνδυνο, με τρομάζει."
+dev,el,disgust,"Αηδία, είναι απαίσιο!"
+dev,el,disgust,"Σιχάθηκα, είναι βρώμικο και αποκρουστικό."
+dev,el,surprise,"Ουάου, απίστευτο!"
+dev,el,surprise,Έκπληξη! Δεν το περίμενα καθόλου.
+dev,el,sadness,Δεν είμαι καθόλου χαρούμενος.
+dev,el,sadness,"Δεν είμαι καλά, νιώθω κενός."
+dev,es,joy,"Estoy muy feliz, ¡gracias por todo!"
+dev,es,joy,"Qué alegría tan grande, felicidades!"
+dev,es,anger,Estoy muy enojado contigo.
+dev,es,anger,"Odio esto, estoy furioso."
+dev,es,sadness,"Estoy muy triste, te extraño."
+dev,es,sadness,Me siento solo y deprimido.
+dev,es,fear,Tengo miedo y estoy muy nervioso.
+dev,es,disgust,"Qué asco, es asqueroso."
+dev,fr,joy,"Je suis très heureux, c'est génial!"
+dev,fr,joy,"Merci, je suis ravi!"
+dev,fr,sadness,"Je suis triste, tu me manques."
+dev,fr,anger,"Je suis en colère, j'en ai marre!"
+dev,fr,fear,"J'ai peur, je suis très inquiet."
+dev,de,joy,"Ich bin sehr glücklich, danke!"
+dev,de,joy,"Das ist wunderbar, ich freue mich sehr."
+dev,de,sadness,Ich bin traurig und vermisse dich.
+dev,de,fear,"Ich habe Angst, ich bin besorgt."
+dev,de,disgust,"Das ist ekelhaft, igitt!"
+dev,it,joy,"Che bello, sono molto contento, grazie!"
+dev,it,anger,"Sono arrabbiato, è inaccettabile!"
+dev,it,fear,"Ho paura, sono preoccupato."
+dev,pt,sadness,"Estou muito triste, sinto sua falta."
+dev,pt,anger,"Estou furioso, que raiva!"
+dev,ru,joy,"Я очень счастлив, спасибо!"
+dev,ru,fear,"Мне страшно, я боюсь."
+dev,tr,anger,"Çok kızgınım, senden nefret ediyorum!"
+dev,ja,anger,怒りが止まらない、大嫌い!
+dev,zh,sadness,"我很伤心,我想念你。"
+dev,ko,sadness,너무 슬프고 외로워요.
+dev,en,joy,"Great job, everyone 😊"
+dev,en,joy,So happy right now 😍🎉
+dev,en,sadness,I can't take this anymore 😭💔
+dev,en,anger,Absolutely done with this 😡🤬
+dev,en,neutral,See you at 5.
+holdout,en,joy,We finally got the keys to our new house!
+holdout,en,joy,"The concert was incredible, I danced all night."
+holdout,en,joy,She said yes! I'm the happiest man alive.
+holdout,en,joy,Feeling thankful for such wonderful friends.
+holdout,en,joy,"My startup just closed its first big client, I'm thrilled."
+holdout,en,sadness,I miss the way things used to be.
+holdout,en,sadness,"The house feels so quiet since the kids moved out, and I feel a bit lost."
+holdout,en,sadness,I didn't get the job and I'm really disappointed.
+holdout,en,sadness,"Sitting alone at the funeral, I could barely hold back the tears."
+holdout,en,anger,"Your constant interruptions are driving me crazy, I'm done with this."
+holdout,en,anger,"I can't believe the company treated us like this, it's infuriating."
+holdout,en,anger,"Get out of my sight, you disgrace."
+holdout,en,fear,I keep having nightmares and I'm afraid to go to sleep.
+holdout,en,fear,What if the biopsy comes back bad? I'm panicking.
+holdout,en,fear,The storm is getting closer and I'm really frightened.
+holdout,en,disgust,"The restaurant served us rotten fish, it was revolting."
+holdout,en,disgust,"I found a cockroach in my salad, absolutely sickening."
+holdout,en,surprise,"I did not see that plot twist coming, I'm stunned!"
+holdout,en,surprise,"Whoa, you got a haircut, I barely recognized you!"
+holdout,en,neutral,The library opens at nine and closes at six.
+holdout,en,neutral,Can you tell me where the nearest pharmacy is?
+holdout,en,neutral,He parked the car and walked into the building.
+holdout,el,joy,Σήμερα γεννήθηκε ο γιος μου και είμαι ευτυχισμένος!
+holdout,el,joy,"Τι υπέροχο ταξίδι, ευχαριστούμε για όλα!"
+holdout,el,joy,"Κέρδισα το βραβείο, είμαι ενθουσιασμένος."
+holdout,el,sadness,Νιώθω τόσο άδεια μετά τον χωρισμό μας.
+holdout,el,sadness,Τον έχασα πριν από ένα χρόνο και ακόμα κλαίω.
+holdout,el,sadness,Είμαι πολύ στεναχωρημένος που δεν ήρθες.
+holdout,el,anger,Με προσβάλλεις συνέχεια και είμαι θυμωμένη μαζί σου.
+holdout,el,anger,"Δεν τον αντέχω πια, με έχει εκνευρίσει τελείως."
+holdout,el,fear,"Έχω πανικό, φοβάμαι ότι θα με απολύσουν."
+holdout,el,fear,Ανησυχώ πολύ για τα αποτελέσματα των εξετάσεων.
+holdout,el,disgust,"Η μυρωδιά ήταν αποκρουστική, μου ήρθε εμετός."
+holdout,el,surprise,"Ξαφνικά εμφανίστηκε έξω από την πόρτα μου, έμεινα άφωνη!"
+holdout,el,neutral,Η συνάντηση θα γίνει στο γραφείο την Τρίτη.
+holdout,el,neutral,Πρέπει να πάρω ψωμί και γάλα από το σούπερ μάρκετ.
+holdout,es,joy,"¡Me siento increíblemente feliz, lo logramos!"
+holdout,es,joy,"Gracias por este regalo tan hermoso, me encanta."
+holdout,es,sadness,"Me duele mucho que te hayas ido, estoy destrozado."
+holdout,es,sadness,Estoy muy triste por la noticia.
+holdout,es,anger,"Estoy harta de tus mentiras, no lo soporto."
+holdout,es,fear,Me da pánico hablar en público.
+holdout,es,surprise,"¡No puedo creer que hayas venido, qué sorpresa!"
+holdout,es,neutral,Mañana tengo cita con el dentista a las cuatro.
+holdout,fr,joy,"Quelle belle journée, je suis ravie et pleine d'énergie!"
+holdout,fr,sadness,"Je me sens seul et déçu, tout me semble vide."
+holdout,fr,fear,J'ai très peur de ce qui va arriver demain.
+holdout,fr,neutral,Le magasin ferme à dix-neuf heures.
+holdout,de,joy,"Das ist die beste Nachricht seit Langem, ich freue mich riesig!"
+holdout,de,anger,"Ich bin so sauer, das ist wirklich eine Frechheit!"
+holdout,de,fear,Ich habe große Angst vor der Prüfung morgen.
+holdout,de,neutral,Der Bus fährt um halb acht ab.
+holdout,it,sadness,Sono molto deluso e mi sento solo.
+holdout,it,anger,"Sono furioso, mi hanno mentito di nuovo!"
+holdout,it,neutral,Domani incontro il mio amico alla stazione.
+holdout,pt,joy,"Que dia maravilhoso, estou radiante de alegria!"
+holdout,pt,anger,"Estou com muita raiva, isso é um absurdo!"
+holdout,ru,joy,"Какой замечательный день, я очень доволен!"
+holdout,ru,fear,"Мне очень страшно, я переживаю за завтра."
+holdout,ru,neutral,Встреча состоится завтра в десять часов.
+holdout,tr,anger,"Çok sinirliyim, bu kabul edilemez!"
+holdout,tr,fear,"Çok korkuyorum, çok endişeliyim."
+holdout,ja,anger,本当に腹が立つ、許せない!
+holdout,ja,fear,とても怖い、不安で眠れません。
+holdout,zh,sadness,"我很难过,心里很孤独。"
+holdout,zh,fear,"我非常害怕,很担心明天的考试。"
+holdout,ko,anger,너무 화가 나고 짜증나요!
+holdout,hi,sadness,मैं बहुत उदास हूँ और अकेला महसूस करता हूँ।
+blind,en,joy,"I'm so proud of my little brother, he graduated with honors!"
+blind,en,joy,"What a fantastic surprise party, I loved every minute."
+blind,en,joy,"Finally some good news, I feel so relieved and happy."
+blind,en,joy,"Best pizza I've ever had, absolutely delicious!"
+blind,en,sadness,"I'm not okay, I feel like a failure."
+blind,en,sadness,The old dog died this morning and the house feels hollow.
+blind,en,sadness,"I wish I could see her one more time, I miss her every day."
+blind,en,anger,I'm sick of being ignored in every meeting.
+blind,en,anger,"That referee is a joke, I'm livid!"
+blind,en,anger,You betrayed me and I will never forgive you.
+blind,en,fear,"I'm worried sick about my son, he hasn't called."
+blind,en,fear,"My hands are shaking, I'm so nervous about the presentation."
+blind,en,disgust,"That smell is nauseating, I can't even breathe."
+blind,en,disgust,"What a vile, repulsive thing to say."
+blind,en,surprise,"Seriously? I had no idea, that's astonishing!"
+blind,en,surprise,"You're pregnant? Wow, congratulations, I'm speechless!"
+blind,en,neutral,I'll call you back after lunch.
+blind,en,neutral,"The store sells shoes, bags and umbrellas."
+blind,en,neutral,The report has twelve pages and three charts.
+blind,el,joy,Είμαι πολύ χαρούμενη που σε βλέπω!
+blind,el,joy,"Τέλεια νέα, πέρασα στο πανεπιστήμιο!"
+blind,el,joy,"Σ' ευχαριστώ, ήταν μια φανταστική βραδιά."
+blind,el,sadness,Νιώθω πολύ μοναξιά τελευταία.
+blind,el,sadness,Έχω απογοητευτεί και είμαι πολύ λυπημένος.
+blind,el,sadness,Μου λείπεις κάθε μέρα.
+blind,el,anger,"Είμαι έξαλλη, με κορόιδεψαν!"
+blind,el,anger,"Μισώ αυτή την κατάσταση, είναι απαράδεκτη."
+blind,el,fear,Τρέμω στη σκέψη ότι θα πάω στον γιατρό.
+blind,el,fear,Φοβάμαι ότι κάτι κακό θα συμβεί.
+blind,el,disgust,"Σιχάθηκα, αυτό το μέρος είναι βρώμικο και αηδιαστικό."
+blind,el,surprise,"Δεν το περίμενα ποτέ, τι έκπληξη!"
+blind,el,neutral,Θα συναντηθούμε αύριο στις έξι στο καφέ.
+blind,el,neutral,Το μάθημα ξεκινά στις εννέα.
+blind,es,joy,"Estoy emocionada, mañana empiezo mi nuevo trabajo!"
+blind,es,sadness,Me siento muy sola y desanimada.
+blind,es,anger,"Es inaceptable, estoy muy molesto con el servicio."
+blind,es,fear,Estoy muy preocupado y nervioso por los resultados.
+blind,fr,joy,"Je suis fier de toi, c'est formidable!"
+blind,fr,sadness,"Je suis très déçu, j'ai envie de pleurer."
+blind,de,sadness,Ich fühle mich einsam und sehr traurig.
+blind,de,disgust,"Das ist ekelhaft, mir wird schlecht!"
+blind,it,joy,"Sono così contenta, che bella notizia!"
+blind,it,fear,Ho molta paura del buio.
+blind,pt,sadness,Estou muito triste e sozinho hoje.
+blind,ru,anger,"Меня бесит это, я злюсь!"
+blind,ru,sadness,Мне очень грустно и одиноко.
+blind,ja,joy,とても楽しかった、ありがとう!
+blind,zh,joy,"今天真是太棒了,我非常高兴!"
+blind,tr,sadness,Bugün çok üzgünüm.
